@@ -1,0 +1,25 @@
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\bin\Debug\net6.0\solid.Core.deps.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\bin\Debug\net6.0\solid.Core.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\bin\Debug\net6.0\solid.Core.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\refint\solid.Core.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Core\obj\Debug\net6.0\ref\solid.Core.dll
+D:\dotnet\Solid-main\solid.Core\bin\Debug\net6.0\solid.Core.deps.json
+D:\dotnet\Solid-main\solid.Core\bin\Debug\net6.0\solid.Core.dll
+D:\dotnet\Solid-main\solid.Core\bin\Debug\net6.0\solid.Core.pdb
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.csproj.AssemblyReference.cache
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.AssemblyInfoInputs.cache
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.AssemblyInfo.cs
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.csproj.CoreCompileInputs.cache
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.dll
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\refint\solid.Core.dll
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.pdb
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\ref\solid.Core.dll
+D:\dotnet\Solid-main\solid.Core\obj\Debug\net6.0\solid.Core.sourcelink.json

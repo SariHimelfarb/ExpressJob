@@ -11,7 +11,10 @@ namespace solid.Core.Services
 {
     public interface IUserService
     {
-        Task<IEnumerable<UserDto>> GetAsync();
-        Task<User> PostAsynce(UserDto user);
+        public Task<IEnumerable<User>> GetAsync();
+        public Task<User> GetAsync(int id);
+        public Task<User> PostAsync(User user);
+        public Task PutAsync(int id, User user);
+        public Task DeleteAsync(int id);
     }
 }

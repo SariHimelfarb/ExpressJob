@@ -1,0 +1,35 @@
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.deps.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.runtimeconfig.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\bin\Debug\net6.0\solid.Core.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\bin\Debug\net6.0\solid.Core.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.csproj.CopyComplete
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\refint\solid.Data.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.genruntimeconfig.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Data\obj\Debug\net6.0\ref\solid.Data.dll
+D:\dotnet\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.deps.json
+D:\dotnet\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.runtimeconfig.json
+D:\dotnet\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.dll
+D:\dotnet\Solid-main\solid.Data\bin\Debug\net6.0\solid.Data.pdb
+D:\dotnet\Solid-main\solid.Data\bin\Debug\net6.0\solid.Core.dll
+D:\dotnet\Solid-main\solid.Data\bin\Debug\net6.0\solid.Core.pdb
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.csproj.AssemblyReference.cache
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.AssemblyInfoInputs.cache
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.AssemblyInfo.cs
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.csproj.CoreCompileInputs.cache
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.csproj.CopyComplete
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.dll
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\refint\solid.Data.dll
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.pdb
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.genruntimeconfig.cache
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\ref\solid.Data.dll
+D:\dotnet\Solid-main\solid.Data\obj\Debug\net6.0\solid.Data.sourcelink.json

@@ -11,7 +11,10 @@ namespace solid.Core.Repositories
 {
     public interface IInterviewRepository
     {
-        Task<IEnumerable<InterviewDto>> GetAsync();
-        Task<Interview> PostAsync(InterviewDto interview);
+        public Task<IEnumerable<Interview>> GetAsync();
+        public Task<Interview> GetAsync(int id);
+        public Task<Interview> PostAsync(Interview interview);
+        public Task PutAsync(int id, Interview interview);
+        public Task DeleteAsync(int id);
     }
 }

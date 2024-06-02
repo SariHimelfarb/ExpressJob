@@ -1,0 +1,31 @@
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\bin\Debug\net6.0\solid.Service.deps.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\bin\Debug\net6.0\solid.Service.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\bin\Debug\net6.0\solid.Service.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\bin\Debug\net6.0\solid.Core.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\bin\Debug\net6.0\solid.Core.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.csproj.CopyComplete
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\refint\solid.Service.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid.Service\obj\Debug\net6.0\ref\solid.Service.dll
+D:\dotnet\Solid-main\solid.Service\bin\Debug\net6.0\solid.Service.deps.json
+D:\dotnet\Solid-main\solid.Service\bin\Debug\net6.0\solid.Service.dll
+D:\dotnet\Solid-main\solid.Service\bin\Debug\net6.0\solid.Service.pdb
+D:\dotnet\Solid-main\solid.Service\bin\Debug\net6.0\solid.Core.dll
+D:\dotnet\Solid-main\solid.Service\bin\Debug\net6.0\solid.Core.pdb
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.csproj.AssemblyReference.cache
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.AssemblyInfoInputs.cache
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.AssemblyInfo.cs
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.csproj.CoreCompileInputs.cache
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.csproj.CopyComplete
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.dll
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\refint\solid.Service.dll
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.pdb
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\ref\solid.Service.dll
+D:\dotnet\Solid-main\solid.Service\obj\Debug\net6.0\solid.Service.sourcelink.json

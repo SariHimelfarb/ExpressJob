@@ -19,15 +19,30 @@ namespace solid.Service
         {
             _interviewRepository =interviewRepository ;
         }
-        public async Task<IEnumerable<InterviewDto>> GetAsync()
+        public async Task<IEnumerable<Interview>> GetAsync()
         {
             return await _interviewRepository.GetAsync();
         }
 
-        public async Task<Interview> PostAsync(InterviewDto interview)
+        public async Task<Interview> GetAsync(int id)
+        {
+            return await _interviewRepository.GetAsync(id);
+        }
+        public async Task<Interview> PostAsync(Interview interview)
         {
             return await _interviewRepository.PostAsync(interview);
         }
+       
+        public async Task PutAsync(int id,  Interview interview)
+        {
+            await _interviewRepository.PutAsync(id, interview);
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            await _interviewRepository.DeleteAsync(id);
+        }
+
 
     }
 }

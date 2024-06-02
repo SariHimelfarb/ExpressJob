@@ -15,33 +15,44 @@ namespace solid.Data.Repositories
     {
 
         private readonly DataContext _context;
-        private readonly IMapper _mapper;
-
-        public InterviewRepository(DataContext context,IMapper mapper)
+        public InterviewRepository(DataContext context)
         {
             _context = context;
-            _mapper = mapper;
         }
-        //public async Task<IEnumerable<InterviewDto>> GetAsync()
-        //{
-        //    var interviews = _context.Interviews.Include(i => i.User);
-        //    var interviewsDto = _mapper.Map<IEnumerable<InterviewDto>>(interviews);
-        //    return await Task.FromResult(interviewsDto);
-            
-        //}
-        public async Task<IEnumerable<InterviewDto>> GetAsync()
+        public async Task<IEnumerable<Interview>> GetAsync()
         {
-            var interviews = await _context.Interviews.Include(i => i.User).ToListAsync(); // Use ToListAsync for async retrieval
-            var interviewsDto = _mapper.Map<IEnumerable<InterviewDto>>(interviews);
-            return interviewsDto;
+            return await _context.Interviews.ToListAsync();
+
+        }
+        public async Task<Interview> GetAsync(int id)
+        {
+            return await _context.Interviews.FindAsync(id);
+
         }
 
-        public async Task<Interview> PostAsync(InterviewDto interview)
+        public async Task<Interview> PostAsync(Interview interview)
         {
-            var inter = _mapper.Map<Interview>(interview);
-            _context.Interviews.Add(inter);
+            _context.Interviews.Add(interview);
             await _context.SaveChangesAsync();
-            return inter;
+            return interview;
+        }
+
+        public async Task PutAsync(int id, Interview inter)
+        {
+            var interview = _context.Interviews.Find(id);
+            interview.CurrentJob = inter.CurrentJob;
+            interview.Date = inter.Date;
+            interview.Id = inter.Id;
+            interview.User = inter.User;
+            interview.UserId = inter.UserId;
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            var inter = _context.Interviews.Find(id);
+            _context.Interviews.Remove(inter);
+            await _context.SaveChangesAsync();
         }
     }
 }

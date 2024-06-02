@@ -16,26 +16,42 @@ namespace solid.Data.Repositories
     {
 
         private readonly DataContext _context;
-        private readonly IMapper _mapper;
-        public UserRepository(DataContext context,IMapper mapper)
+        public UserRepository(DataContext context)
         {
-            _mapper = mapper;
             _context = context;
         }
-        public async Task<IEnumerable<UserDto>> GetAsync()
+        public async Task<IEnumerable<User>> GetAsync()
         {
-            var users=_context.Users;
-            var usersDto=_mapper.Map<IEnumerable<UserDto>>(users);
-            return await Task.FromResult(usersDto);
+            return await _context.Users.ToListAsync();
+        }
+        public async Task<User> GetAsync(int id)
+        {
+            return await _context.Users.FindAsync(id);
         }
 
 
-        public async Task<User> PostAsynce(UserDto user)
+        public async Task<User> PostAsync(User user)
         {
-            var userEntity = _mapper.Map<User>(user);
-            _context.Users.Add(userEntity);
+            _context.Users.Add(user);
             await _context.SaveChangesAsync();
-            return userEntity;
+            return user;
         }
+
+        public async Task PutAsync(int id, User u)
+        {
+            var user = _context.Users.Find(id);
+            user.Category = u.Category;
+            user.Name = u.Name;
+            user.Interviews = u.Interviews;
+            user.Experience = u.Experience;
+            await _context.SaveChangesAsync();
+        }
+        public async Task DeleteAsync(int id)
+        {
+            var user = _context.Users.Find(id);
+            _context.Users.Remove(user);
+            await _context.SaveChangesAsync();
+        }
+
     }
 }

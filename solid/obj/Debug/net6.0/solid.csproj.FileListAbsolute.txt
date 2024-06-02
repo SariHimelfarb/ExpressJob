@@ -1,0 +1,151 @@
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\appsettings.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.exe
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.deps.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.runtimeconfig.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Humanizer.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.Core.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.Data.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.Service.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.Core.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.Data.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\bin\Debug\net6.0\solid.Service.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.solid.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.build.solid.props
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.solid.props
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.solid.props
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\scopedcss\bundle\solid.styles.css
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.csproj.CopyComplete
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\refint\solid.dll
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.pdb
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\solid.genruntimeconfig.cache
+C:\Users\שרי הימלפרב\Downloads\Solid-main\solid\obj\Debug\net6.0\ref\solid.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\appsettings.Development.json
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\appsettings.json
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.exe
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.deps.json
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.runtimeconfig.json
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.pdb
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\AutoMapper.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Humanizer.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.Core.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.Data.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.Service.dll
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.Core.pdb
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.Data.pdb
+D:\dotnet\Solid-main\solid\bin\Debug\net6.0\solid.Service.pdb
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.csproj.AssemblyReference.cache
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.AssemblyInfoInputs.cache
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.AssemblyInfo.cs
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.csproj.CoreCompileInputs.cache
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\staticwebassets.build.json
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\staticwebassets.development.json
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.solid.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.build.solid.props
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.solid.props
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.solid.props
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\scopedcss\bundle\solid.styles.css
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.csproj.CopyComplete
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.dll
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\refint\solid.dll
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.pdb
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.genruntimeconfig.cache
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\ref\solid.dll
+D:\dotnet\Solid-main\solid\obj\Debug\net6.0\solid.sourcelink.json

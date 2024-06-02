@@ -15,24 +15,44 @@ namespace solid.Data.Repositories
     {
 
         private readonly DataContext _context;
-        private readonly IMapper _mapper;
-        public JobRepository(DataContext context,IMapper mapper)
+        public JobRepository(DataContext context)
         {
             _context = context;
-            _mapper = mapper;
         }
-        public async Task<IEnumerable<JobDto>> GetAsync()
+        public async Task<IEnumerable<Job>> GetAsync()
         {
-            var jobList = _context.Jobs;
-            var dtoList = _mapper.Map<IEnumerable<JobDto>>(jobList);
-            return await Task.FromResult(dtoList);
+            //var jobList = _context.Jobs;
+            //var dtoList = _mapper.Map<IEnumerable<JobDto>>(jobList);
+            return await _context.Jobs.ToListAsync();
         }
-        public async Task<Job> PostAsync(JobDto job)
+        public async Task<Job> GetAsync(int id)
         {
-            var jobEntity = _mapper.Map<Job>(job);
-            _context.Jobs.Add(jobEntity);
+            //var jobList = _context.Jobs;
+            //var dtoList = _mapper.Map<IEnumerable<JobDto>>(jobList);
+            return await _context.Jobs.FindAsync(id);
+        }
+        public async Task<Job> PostAsync(Job job)
+        {
+            _context.Jobs.Add(job);
             await _context.SaveChangesAsync();
-            return jobEntity;
+            return job;
+        }
+
+        public async Task PutAsync(int id, Job j)
+        {
+            var job = _context.Jobs.Find(id);
+            job.Description = j.Description;
+            job.Id = id;
+            job.intervies = j.intervies;
+            job.Category = j.Category;
+            job.RequiredExperience = j.RequiredExperience;
+            await _context.SaveChangesAsync();
+        }
+        public async Task DeleteAsync(int id)
+        {
+            var job = _context.Jobs.Find(id);
+            _context.Jobs.Remove(job);
+            await _context.SaveChangesAsync();
         }
     }
 }

@@ -19,17 +19,31 @@ namespace solid.Service
         {
             _userRepository = userRepository;
         }
-        public async Task<IEnumerable<UserDto>> GetAsync()
+        public async Task<IEnumerable<User>> GetAsync()
         {
             return await _userRepository.GetAsync();
         }
-
-        public async Task<User> PostAsynce(UserDto user)
+        public async Task<User> GetAsync(int id)
         {
-            return await _userRepository.PostAsynce(user);
+            return await _userRepository.GetAsync(id);
         }
 
+        public async Task<User> PostAsync(User user)
+        {
+            return await _userRepository.PostAsync(user);
+        }
 
+        public async Task PutAsync(int id, User u)
+        {
+            await _userRepository.PutAsync(id, u);
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            await _userRepository.DeleteAsync(id);
+        }
+
+        
     }
 
 }
